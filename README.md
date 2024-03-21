@@ -6,7 +6,7 @@ My name is Ayoub and I'm a Front-end developer who loves to work with modern tec
 I started my journey as a self-taught web developer right out of High School when I first got fascinated by the web development world and wanted to build amazing experiences for the web. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.  
   
  ## More about me                                                
-- ⚡ I’m a UI designer and Full-stack JS developer.                                  
+- ⚡ I’m a UI designer and Front-End Developer.                                  
 - 👨🏽‍💻 I spend most of my time designing & building awesome web apps.
 - 🚀 I enjoy building complex APIs using the hottest technologies.
 - 🟦 Next.js, JAMStack and typescript enthusiast.
