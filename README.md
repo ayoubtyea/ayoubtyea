@@ -1,7 +1,7 @@
 ### Hi there, I am Ayoub 👋  
   
 
-My name is Ayoub and I'm a Front-end developer who loves to work with modern technologies. My goal is to provide value to the large community of designers and developers.
+My name is Ayoub and I'm a Front-End Web Developer who loves to work with modern technologies. My goal is to provide value to the large community of designers and developers.
 
 I started my journey as a self-taught web developer right out of High School when I first got fascinated by the web development world and wanted to build amazing experiences for the web. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.  
   
