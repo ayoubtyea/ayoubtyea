@@ -1,87 +1,49 @@
-</div>
+# Hi, I'm Ayoub El Tayea 👋
+
+## Full Stack Web Developer (MERN Stack)
+
+I'm a passionate full stack developer specializing in the MERN stack and modern web technologies. My journey began right after high school when I discovered the exciting world of web development. Since then, I've been dedicated to creating seamless web experiences from front-end to back-end.
+
+### About Me
+
+- 💻 Full Stack Developer specializing in MERN Stack
+- 🎨 Building scalable web applications with modern technologies
+- 🚀 Enthusiast of Next.js, TypeScript, and JAMStack
+- 📧 Contact: ayoubeltayea@gmail.com
+
+### Tech Stack
+
+**Frontend:**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**CMS & Tools:**
+![Webflow](https://img.shields.io/badge/Webflow-%234353FF.svg?style=for-the-badge&logo=webflow&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubtyea&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ayoubtyea&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubtyea&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-el-tayea)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ayoub.eltayea)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayoub.tye)
 
 ---
 
-## 📊 Character Stats
-
-<div align="center">
-
-| Attribute | Level | XP Bar |
-|-----------|-------|--------|
-| 💪 Frontend Power | ████████░░ 80% | ![Frontend](https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20React-Expert-blue?style=flat-square) |
-| 🛡️ Backend Defense | ███████░░░ 75% | ![Backend](https://img.shields.io/badge/Node.js%20%7C%20Express%20%7C%20MongoDB-Advanced-green?style=flat-square) |
-| ⚡ JavaScript Mastery | ████████░░ 85% | ![JS](https://img.shields.io/badge/JavaScript%20%7C%20TypeScript-Proficient-yellow?style=flat-square) |
-| 🎨 Design Skills | ███████░░░ 70% | ![Design](https://img.shields.io/badge/Tailwind%20%7C%20UI%2FUX-Intermediate-purple?style=flat-square) |
-| 🔥 Problem Solving | ████████░░ 80% | ![Problem](https://img.shields.io/badge/Algorithms%20%7C%20Logic-Strong-red?style=flat-square) |
-| 🚀 Deployment | ██████░░░░ 65% | ![Deploy](https://img.shields.io/badge/Git%20%7C%20CI%2FCD-Learning-orange?style=flat-square) |
-
-</div>
-
----
-
-## 🎒 Inventory (Tech Stack)
-
-<div align="center">
-
-### ⚔️ Weapons (Languages & Frameworks)
-[![My Arsenal](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb)](https://skillicons.dev)
-
-### 🛡️ Armor (Tools & Platforms)
-[![My Gear](https://skillicons.dev/icons?i=git,github,vscode,tailwind,wordpress,webflow,figma,postman)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-| Achievement | Description | Status |
-|-------------|-------------|--------|
-| 🎓 **Self-Taught Hero** | Mastered web development without formal training | ✅ Unlocked |
-| 💻 **Full Stack Novice** | Built first complete MERN application | ✅ Unlocked |
-| 🎨 **UI Craftsman** | Created 10+ responsive websites | ✅ Unlocked |
-| 🚀 **API Architect** | Developed RESTful APIs with Node.js | ✅ Unlocked |
-| 📚 **Continuous Learner** | Learning new tech every week | 🔄 In Progress |
-| 🤝 **Team Player** | Ready to join collaborative quests | 🔒 Quest Available |
-| 🌟 **Open Source Contributor** | Contribute to community projects | 🔒 Quest Available |
-
-</div>
-
----
-
-## 📈 Battle Statistics (GitHub Stats)
-
-<div align="center">
-
-### ⚔️ Combat Record
-<img src="https://github-readme-stats.vercel.app/api?username=ayoubtyea&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=⚔️%20Battle%20Stats" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayoubtyea&theme=radical&hide_border=true&card_width=400" alt="Streak Stats" width="49%"/>
-
-### 🗡️ Weapon Proficiency
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubtyea&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=🗡️%20Weapon%20Mastery" alt="Top Languages" width="49%"/>
-
-### 📊 Campaign Progress
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubtyea&theme=redical&hide_border=true&area=true&custom_title=📊%20Campaign%20Activity)](https://github.com/ayoubtyea)
-
-</div>
-
----
-
-## 🎯 Current Quests
-
-<div align="center">
-
-| Quest | Difficulty | Progress | Reward |
-|-------|-----------|----------|--------|
-| 🔨 Build MERN E-commerce | ⭐⭐⭐ | ████████░░ 80% | +500 XP |
-| 📖 Master React Hooks | ⭐⭐ | ██████░░░░ 60% | +300 XP |
-| 🌐 Deploy on AWS | ⭐⭐⭐⭐ | ████░░░░░░ 40% | +800 XP |
-| 🤝 Contribute to Open Source | ⭐⭐⭐ | ██░░░░░░░░ 20% | +600 XP |
-
-</div>
-
----
-
-## 💬 Quest Log (About My Journey)
+💡 *Open to collaborations and freelance opportunities!*
