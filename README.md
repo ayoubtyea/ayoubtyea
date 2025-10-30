@@ -1,40 +1,52 @@
-Hi! My name is Ayoub El Tayea 😄
-========================================================================================================================================
-  
+# 👋 Hi! I'm Ayoub El Tayea 😄  
 
-I'm a Front-End Web Developer who loves to work with modern technologies. My goal is to provide value to the large community of designers and developers.
+I'm a **Full Stack Web Developer (MERN Stack)** passionate about building modern, high-performance web applications.  
+I specialize in creating end-to-end digital solutions — from beautiful front-end interfaces to scalable back-end systems — using the latest web technologies.  
 
-I started my journey as a self-taught web developer right out of High School when I first got fascinated by the web development world and wanted to build amazing experiences for the web. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.  
-  
- ## More about me                                                
-- ⚡ I’m a UI designer and Front-End Developer.                                  
-- 👨🏽‍💻 I spend most of my time designing & building awesome web apps.
-- 🚀 I enjoy building complex APIs using the hottest technologies.
-- 🟦 Next.js, JAMStack and typescript enthusiast.
-- 📫 Get in touch: ayoubeltayea@gmail.com
+---
 
-  
-<br/>  
+## 🌱 About Me  
+I started my journey as a **self-taught developer** right after high school, fascinated by how the web connects the world.  
+Over time, I’ve mastered both **frontend** and **backend** development, and I’m always learning new technologies to create seamless, efficient, and visually engaging user experiences.
 
-### Skills
+### 💡 What I Do  
+- ⚡ **Full Stack Developer (MERN Stack):** HTML | CSS | Tailwind | JavaScript | TypeScript | React | NodeJS | Express | MongoDB | Webflow | WordPress  
+- 👨🏽‍💻 I build responsive and user-friendly web applications from scratch.  
+- 🚀 I design and develop robust APIs using Node.js and Express.  
+- 🎨 I love bringing creative UI/UX designs to life using React and Tailwind CSS.  
+- 🧠 Continuously learning and improving to stay up-to-date with the latest trends in web development.  
+- 📫 **Reach me at:** [ayoubeltayea@gmail.com](mailto:ayoubeltayea@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,py)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=You-ssef-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=You-ssef-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=You-ssef-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## Connect with me  
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,mongodb,webflow,wordpress)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubtyea&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ayoubtyea&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubtyea&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🤝 Connect with Me  
+
 <div align="left">
-<a href="https://linkedin.com/in/Ayoub El Tayea" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Ayo Ub  (El Tayea)" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ayoub.tye" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
+  <a href="https://www.linkedin.com/in/ayoub-el-tayea" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/ayoub.eltayea" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/ayoub.tye" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+---
+
+⭐️ *“Design. Develop. Deploy. Repeat.”*  
