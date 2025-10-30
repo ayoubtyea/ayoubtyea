@@ -31,13 +31,21 @@ I started my journey as a **self-taught developer** right after high school, fas
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubtyea&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubtyea&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubtyea&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ayoubtyea&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubtyea&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubtyea&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" height="180"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubtyea&theme=dark&hide_border=false&layout=compact)
+---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoubtyea&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
