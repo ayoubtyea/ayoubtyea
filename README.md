@@ -22,6 +22,16 @@ I started my journey as a **self-taught developer** right after high school, fas
 📫 **Reach me at:** [ayoubeltayea@gmail.com](mailto:ayoubeltayea@gmail.com)
 
 ---
+---
+
+## 💼 What I'm Currently Working On
+
+- 🔨 Building full-stack web applications with MERN stack
+- 📖 Learning advanced React patterns and state management
+- 🌐 Exploring modern deployment strategies and CI/CD
+- 🤝 Contributing to open-source projects
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -55,16 +65,6 @@ I started my journey as a **self-taught developer** right after high school, fas
 
 </div>
 
----
-
-## 💼 What I'm Currently Working On
-
-- 🔨 Building full-stack web applications with MERN stack
-- 📖 Learning advanced React patterns and state management
-- 🌐 Exploring modern deployment strategies and CI/CD
-- 🤝 Contributing to open-source projects
-
----
 
 ## 🤝 Connect with Me
 
