@@ -20,7 +20,7 @@ Since then, I’ve fallen in love with development — spending most of my days 
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,py,tailwind,scss,nodejs,mongodb,expressjs,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,py,tailwind,scss,nodejs,mongodb,expressjs,wordpress,figma)](https://skillicons.dev)
 
 
 ## 🤝 Connect with Me  
