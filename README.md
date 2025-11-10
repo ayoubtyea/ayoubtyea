@@ -26,13 +26,13 @@ Since then, I’ve fallen in love with development — spending most of my days 
 ## 🤝 Connect with Me  
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ayoub-el-tayea" target="_blank">
+  <a href="https://www.linkedin.com/in/ayoub-tayea/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/ayoub.eltayea" target="_blank">
+  <a href="[https://www.facebook.com/ayoub.eltayea](https://www.facebook.com/profile.php?id=100009631205489)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/ayoub.tye" target="_blank">
+  <a href="[https://www.instagram.com/ayoub.tye](https://www.instagram.com/ayoub.tye/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
